@@ -7,7 +7,6 @@ This project implements a logistic regression model to predict credit defaults u
 - `credit_default_modeling.ipynb` - Main Jupyter notebook with complete analysis and modeling
 - `credit_risk_dataset.csv` - Dataset containing loan and borrower information
 - `requirements.txt` - Required Python packages
-- `credit_risk_analysis.py` - Standalone analysis script
 
 ## Setup Instructions
 
